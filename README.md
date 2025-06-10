@@ -36,7 +36,7 @@ The selected path executes and returns a response to the user.
 📂 Folder Structure
 Hybridbot/
 │
-├── 
+├── app.py             #Main application with Streamlit UI and full LangChain + LangGraph logic
 ├── healthcare.txt     # Knowledge base for RAG
 ├── requirements.txt   # Python dependencies
 └── .env               # Stores OpenAI API key
