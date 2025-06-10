@@ -1,0 +1,25 @@
+* **Common Cold** – Sneezing, runny nose, sore throat, cough, mild headache.
+* **Influenza (Flu)** – High fever, chills, body aches, fatigue, sore throat.
+* **COVID-19** – Fever, dry cough, shortness of breath, loss of taste or smell.
+* **Diabetes (Type 2)** – Frequent urination, increased thirst, fatigue, blurred vision.
+* **Hypertension (High Blood Pressure)** – Headache, dizziness, chest pain (often asymptomatic).
+* **Asthma** – Wheezing, shortness of breath, chest tightness, coughing.
+* **Pneumonia** – Chest pain, cough with phlegm, fever, difficulty breathing.
+* **Tuberculosis (TB)** – Persistent cough, night sweats, weight loss, fatigue.
+* **Bronchitis** – Cough with mucus, chest discomfort, fatigue, mild fever.
+* **Sinusitis** – Facial pain/pressure, nasal congestion, thick nasal discharge.
+* **Migraine** – Throbbing headache, nausea, sensitivity to light and sound.
+* **Gastroenteritis (Stomach Flu)** – Diarrhea, vomiting, abdominal cramps, fever.
+* **Urinary Tract Infection (UTI)** – Burning urination, frequent urge to urinate, pelvic pain.
+* **Anemia (Iron Deficiency)** – Fatigue, pale skin, shortness of breath, dizziness.
+* **Arthritis** – Joint pain, stiffness, swelling, reduced range of motion.
+* **Dengue Fever** – High fever, rash, severe headache, joint and muscle pain.
+* **Typhoid Fever** – High fever, abdominal pain, weakness, rash.
+* **Hepatitis A/B/C** – Jaundice, fatigue, abdominal pain, dark urine.
+* **Depression** – Persistent sadness, loss of interest, fatigue, sleep disturbances.
+* **Anxiety Disorder** – Restlessness, excessive worry, palpitations, insomnia.
+* **Malaria** – Fever with chills, sweating, headache, vomiting.
+* **Chickenpox** – Itchy rash, fever, tiredness, loss of appetite.
+* **Measles** – Fever, cough, runny nose, rash starting on face.
+* **Meningitis** – Neck stiffness, headache, fever, confusion.
+* **Appendicitis** – Right lower abdominal pain, nausea, vomiting, fever.
